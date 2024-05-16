@@ -49,7 +49,7 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: https://juliana-souza-franca.github.io/suits-academy-front-robot/report.html
+      url: https://andersonsbenicio.github.io/suits-academy-front-robot/report.html
     steps:
       - name: Setup Pages
         uses: actions/configure-pages@v5
